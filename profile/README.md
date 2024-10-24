@@ -28,7 +28,7 @@ Las contribuciones a este repositorio están sujetas a aprobación. Cualquier mo
 Para consultas o información adicional, por favor comunicarte con:
 
 - **Ministerio de Economía, Planificación y Desarrollo**
-- **Email:** [correo@mepyd.gob.do](mailto:desarrollotic@mepyd.gob.do)
+- **Email:** [desarrollotic@mepyd.gob.do](mailto:desarrollotic@mepyd.gob.do)
 
 ---
 

@@ -18,6 +18,25 @@ Este repositorio es de **uso exclusivo para el personal autorizado del Gobierno 
 
 - **Cumplimiento Legal:** El uso de este repositorio debe cumplir con todas las normativas y regulaciones aplicables en la República Dominicana.
 
+### Nomenclatura de Repositorios
+
+Los nombres de los repositorios siguen la siguiente estructura:
+
+*[institucion]-[tipo-proyecto]-[parte-del-sistema]*
+
+#### Componentes de la Nomenclatura
+
+- **institucion**: Abreviatura de la institución a la que pertenece el proyecto.
+- **tipo-proyecto**: Indica el tipo de proyecto que se está desarrollando (por ejemplo, "sistema de mapas, gestion de reuniones, intranet, etc").
+- **parte-del-sistema**: Describe la parte específica del sistema que se está implementando (por ejemplo, "frontend", "backend" o "all-in-one").
+
+#### Ejemplos
+
+- `mepyd-gestion-reuniones-frontend`: Repositorio del frontend de la aplicación de gestión de reuniones.
+- `mepyd-gestion-reuniones-backend`: Repositorio del backend de la aplicación de gestión de reuniones.
+- `mepyd-gestion-reuniones-all-in-one`: Repositorio que incluye tanto el frontend como el backend de la aplicación.
+
+Esta nomenclatura ayuda a identificar fácilmente el propósito y la estructura de cada repositorio dentro del proyecto.
 
 ### Contribuciones
 
@@ -33,3 +52,7 @@ Para consultas o información adicional, por favor comunicarte con:
 ---
 
 **Nota:** Este repositorio y su contenido están sujetos a las políticas de uso del MEPyD y la normativa vigente en la República Dominicana.
+
+**Creación del README:** Este README fue creado por Leandro Leonardo.
+
+**Fecha de creación:** 24/10/2024
